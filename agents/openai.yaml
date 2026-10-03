@@ -1,0 +1,4 @@
+interface:
+  display_name: "DWG 图纸读取"
+  short_description: "提取DWG文字、图层、块属性和几何边界，按区块归类并核对工程标高数据"
+  default_prompt: "请使用 $dwg-reader 读取这份 DWG 图纸，提取我需要的信息，并标明数据来源和待核对项。"
